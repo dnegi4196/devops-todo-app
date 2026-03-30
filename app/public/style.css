@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+  text-align: center;
+}
+
+input {
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+  background: blue;
+  color: white;
+}
+
+li {
+  margin: 10px;
+  list-style: none;
+}
